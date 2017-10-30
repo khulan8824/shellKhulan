@@ -1,7 +1,7 @@
 #!/bin/bash
 while true
 do
- ./readFile.sh
+ ./readProxy.sh
  sleep 5m
 done
 
