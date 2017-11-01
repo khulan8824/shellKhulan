@@ -1,0 +1,8 @@
+https://guifi.net/en/guifi/device/25253 - https://guifi.net/en/node/11697 - 10.138.3162
+https://guifi.net/en/guifi/device/3982 - https://guifi.net/en/node/7193 - 10.138.57.2
+https://guifi.net/en/guifi/device/459 - https://guifi.net/en/elserrat - 10.138.0.2
+https://guifi.net/en/guifi/device/18375 - https://guifi.net/en/node/17940 - 10.228.8.106
+https://guifi.net/en/guifi/device/3204 - https://guifi.net/en/OlostAjt - 10.138.120.66
+https://guifi.net/en/guifi/device/4535 -https://guifi.net/en/node/8484 - 10.138.90.98
+https://guifi.net/en/guifi/device/5807 - https://guifi.net/en/node/11252 - 10.138.77.2
+https://guifi.net/en/guifi/device/11810 - https://guifi.net/en/node/18202 - 10.228.0.83
