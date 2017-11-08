@@ -1,4 +1,4 @@
-https://guifi.net/en/guifi/device/25253 - https://guifi.net/en/node/11697 - 10.138.3162
+https://guifi.net/en/guifi/device/25253 - https://guifi.net/en/node/11697 - 10.138.3.162
 https://guifi.net/en/guifi/device/3982 - https://guifi.net/en/node/7193 - 10.138.57.2
 https://guifi.net/en/guifi/device/459 - https://guifi.net/en/elserrat - 10.138.0.2
 https://guifi.net/en/guifi/device/18375 - https://guifi.net/en/node/17940 - 10.228.8.106
@@ -6,3 +6,20 @@ https://guifi.net/en/guifi/device/3204 - https://guifi.net/en/OlostAjt - 10.138.
 https://guifi.net/en/guifi/device/4535 -https://guifi.net/en/node/8484 - 10.138.90.98
 https://guifi.net/en/guifi/device/5807 - https://guifi.net/en/node/11252 - 10.138.77.2
 https://guifi.net/en/guifi/device/11810 - https://guifi.net/en/node/18202 - 10.228.0.83
+
+
+UPC proxies
+https://guifi.net/en/guifi/device/51580 - https://guifi.net/en/node/57064 - 10.139.40.85
+https://guifi.net/en/guifi/device/51580 - https://guifi.net/node/57064 - 10.139.40.122
+
+
+
+https://guifi.net/en/guifi/device/5759 - https://guifi.net/en/node/10473 - 10.138.85.130
+https://guifi.net/guifi/device/37614 - https://guifi.net/en/bcnlorda17 - 10.228.193.210 (21209)
+https://guifi.net/guifi/device/74592 - https://guifi.net/en/node/72642 - 10.139.17.4
+- https://guifi.net/node/35353 - 10.139.37.194 - Proxy Valcarca
+
+
+
+https://guifi.net/en/guifi/device/1512 - https://guifi.net/en/node/3982 - 10.138.62.2 - not workign
+https://guifi.net/en/guifi/device/2390 - https://guifi.net/node/5126 - 10.138.25.67 - not working
