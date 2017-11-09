@@ -10,7 +10,7 @@ https://guifi.net/en/guifi/device/11810 - https://guifi.net/en/node/18202 - 10.2
 
 UPC proxies
 https://guifi.net/en/guifi/device/51580 - https://guifi.net/en/node/57064 - 10.139.40.85
-https://guifi.net/en/guifi/device/51580 - https://guifi.net/node/57064 - 10.139.40.122
+https://guifi.net/en/guifi/device/51580 - https://guifi.net/node/78108 - 10.139.40.122
 
 
 
